@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overscroll-behavior: none;
+}
+canvas {
+  display: block;
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
